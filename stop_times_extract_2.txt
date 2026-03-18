@@ -1,3 +1,4 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled,timepoint
 78014_02_342_38073,20:46:00,20:46:00,000000040000002,28,,3,3,,
 78014_02_342_38073,20:48:00,20:48:00,000000040100002,29,,3,3,,
 78014_02_342_38073,20:49:00,20:49:00,000000007800002,30,,3,3,,
